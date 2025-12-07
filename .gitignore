@@ -1,0 +1,27 @@
+venv/
+.venv/
+.env
+.env.local
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+__pypackages__/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# node
+node_modules/
+
+# Logs
+*.log

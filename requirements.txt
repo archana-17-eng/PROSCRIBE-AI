@@ -1,7 +1,0 @@
-streamlit
-pandas
-pypdf
-python-docx
-fpdf
-langchain-google-genai
-python-dotenv
